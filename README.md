@@ -10,5 +10,6 @@ A KTM-themed donut made in Blender.
 ## Preview  
 Here’s the render:  
 
-![Donut Render]("blender donut.png")
+![Donut Render](render.png)
+
 
